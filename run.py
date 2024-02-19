@@ -133,5 +133,5 @@ def main():
     update_worksheet(stock_data, "stock")
 
 
-print("Welcome to Love Sandwiches Data Automation")
+print("Welcome to Love Sandwich Data Automation")
 main()
